@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Afni/Jannah
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m recently completed the Google Data Analytics Professional Certificate. Excellent understanding and proficiency of platforms for effective data analysis, including SQL, Sheets, Excel, Tableau and R. Strong communication, organizational, and analytical skills
-- 💞️ I’m looking to collaborate on Data Analytic Projects
+- 👀 I’m interested in Data Analytics, Machine Learning, and Web/Mobile Development.
+- 🌱 Excellent understanding and proficiency of platforms for effective data analysis, including Python, SQL, Excel, and Tableau. Currently learning skills for Web/Mobile Development skills such as Figma, AdobeXD, Wireframing and Prototyping. Strong communication, organizational, and analytical skills.
+- 💞️ I’m looking to collaborate on challenging projects.
 - 📫 How to reach me, my email address: basiruafni@gmail.com
 
 <!---
